@@ -1,0 +1,9 @@
+*.o
+/client
+/server
+/resource
+/serverkeys
+chat.db
+test-tmp
+test
+/chat.db

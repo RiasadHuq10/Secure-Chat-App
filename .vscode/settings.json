@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "api.h": "c",
+        "ui.h": "c",
+        "util.h": "c",
+        "unistd.h": "c",
+        "errno.h": "c",
+        "assert.h": "c",
+        "stdlib.h": "c",
+        "crypto.h": "c"
+    }
+}
